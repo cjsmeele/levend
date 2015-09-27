@@ -1,0 +1,23 @@
+# Output directories
+/obj/*
+/bin/*
+
+# Libraries
+*.a
+
+# Include files
+derelict*
+
+# Other resources
+*.ttf
+
+# Local makefile settings
+Makefile.local
+
+# Local backup and swap files
+*~*
+*.swp
+*.swo
+
+# Vim ctags
+tags
